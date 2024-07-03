@@ -1,2 +1,2 @@
-# llm-inection
-Proof of Concept with LLMs using Indirect Prompt Injection
+# LLM-inection
+Proof of Concept: Indirect Prompt Injection in LLMs via HTML for a Browser.
